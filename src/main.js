@@ -3,7 +3,7 @@
 
 	/** @version 4.1.0 **/
 	const document = window.document,
-		extended = true
+		extended = false
 
 	/**
 	 * Non-Extended: When a tab has been opened as background tab for the first time, the video is loaded when the tab receives focus (Chrome native feature)

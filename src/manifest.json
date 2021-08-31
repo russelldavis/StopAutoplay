@@ -1,10 +1,9 @@
 {
-	"name": "Stop Autoplay for Youtube\u2122 Extended",
+	"name": "Stop Autoplay for Youtube\u2122",
 	"version": "4.1.1",
 	"manifest_version": 2,
 
-	"description":
-		"Stops autoplay on YouTube\u2122. Extended: Starts the video when you focus the tab. Don't like? Use the version without 'Extended'.",
+	"description": "Eases your YouTube\u2122 experience through stopping the autoplay. This version doesn't automatically start Videos.",
 	"icons": {
 		"128": "icon128.png",
 		"16": "icon16.png",
@@ -21,12 +20,6 @@
 	],
 
 	"web_accessible_resources": ["main.js"],
-
-	"options_page": "options.html",
-	"options_ui": {
-		"page": "options.html",
-		"chrome_style": true
-	},
 
 	"minimum_chrome_version": "42"
 }

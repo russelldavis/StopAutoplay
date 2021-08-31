@@ -1,8 +1,6 @@
-Stop Autoplay for Youtube™ Extended
+Stop Autoplay for Youtube™
 ===================
 
-Eases your YouTube™ experience. Stops autoplay. Starts the video when you're ready for it.
+Eases your YouTube™ experience. Stops autoplay. This is the non-extended version, it doesn't start videos automatically.
 
-Get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/stop-autoplay-for-youtube/nilnpbhnhmmjioijfgilcohbknkgfmpa).
-
-If you're looking for the "Stop Autoplay for Youtube™" branch (-> the one without "Extended" features), click [here](https://github.com/kurtextrem/StopAutoplay/tree/non-extended).
+Get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/stop-autoplay-for-youtube/figkapeodjhdgnpiamleongcmecfjccb).
